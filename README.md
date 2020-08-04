@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Linvon
 
-<img align='right' src="img/pusheen.gif" width="300">
+<img align='right' src="https://github.com/linvon/linvon/blob/master/img/pusheen.gif" width="300">
 
-- 💻 I’m a BackEnd Developer <img src="img/cat.gif" width="20">
+- 💻 I’m a BackEnd Developer <img src="https://github.com/linvon/linvon/blob/master/img/cat.gif" width="20">
 - 📚 I’m currently learning  <img  src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=plastic&logo=go&logoColor=white"/>
 - 👨🏽‍💻 Also Code in <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=plastic&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=plastic&logo=php&logoColor=white"/>   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=plastic&logo=lua&logoColor=white"/> 
 
