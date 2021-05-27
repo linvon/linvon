@@ -18,7 +18,9 @@
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Still Gathering Statistics...
+Go       🕓 25 mins ███████████████████████████▊ 99.5%
+Makefile 🕓 0 secs  ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
+Markdown 🕓 0 secs  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
