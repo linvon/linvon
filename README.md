@@ -12,17 +12,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-linvon'sBlog-c14438?style=plastic&logo=data:image/jpeg;base64,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&logoColor=white&link=http://www.linvon.cn)](http://www.linvon.cn)
 - 🎵 Music tastes: **Eason Chan** & **Leslie Cheung** 🎙
 - ⚽️ Football fanatic: Fan of **Cristiano Roooooonaldo** 😎
-
-#### I'm Coding in...
-
- <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-Go         🕓 1 hr 26 mins ███████████████████▊░ 94.2%
-Git Config 🕓 4 mins       █▏░░░░░░░░░░░░░░░░░░░  5.4%
-Markdown   🕓 0 secs       ░░░░░░░░░░░░░░░░░░░░░  0.2%
-JSON       🕓 0 secs       ░░░░░░░░░░░░░░░░░░░░░  0.1%
-Text       🕓 0 secs       ░░░░░░░░░░░░░░░░░░░░░  0.1%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
